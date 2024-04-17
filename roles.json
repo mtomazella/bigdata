@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nome": "Gerente de Loja",
+    "descricao": "Responsável pela gestao geral da loja, incluindo operacões diárias, estoque, equipe de funcionários, atendimento ao cliente e cumprimento de metas de vendas."
+  },
+  {
+    "id": 2,
+    "nome": "Supervisor de Departamento",
+    "descricao": "Supervisiona um departamento específico dentro da loja, como mercearia, laticínios, congelados, produtos frescos, etc. Responsável por garantir o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+  },
+  {
+    "id": 3,
+    "nome": "Encarregado de Caixa",
+    "descricao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente, resolucao de problemas e garantia de conformidade com os procedimentos de pagamento."
+  },
+  {
+    "id": 4,
+    "nome": "Atendente de Balcao",
+    "descricao": "Atende aos clientes nos balcões de atendimento, como padaria, acougue, peixaria, e outros, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+  },
+  {
+    "id": 5,
+    "nome": "Repositor de Mercadorias",
+    "descricao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+  },
+  {
+    "id": 6,
+    "nome": "Auxiliar de Limpeza",
+    "descricao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+  },
+  {
+    "id": 7,
+    "nome": "Fiscal de Caixa",
+    "descricao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+  },
+  {
+    "id": 8,
+    "nome": "Ajudante de Estoque",
+    "descricao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+  },
+  {
+    "id": 9,
+    "nome": "Assistente de Atendimento ao Cliente",
+    "descricao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+  },
+  {
+    "id": 10,
+    "nome": "Auxiliar Administrativo",
+    "descricao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+  }
+]

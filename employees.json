@@ -1,0 +1,135 @@
+[
+  {
+    "CPF": "123.456.789-00",
+    "nome": "Joao Silva",
+    "salario_cents": 300000,
+    "id_cargo": 1,
+    "descricao_funcao": "Responsável pela gestao geral da loja, incluindo operacões diárias, estoque, equipe de funcionários, atendimento ao cliente e cumprimento de metas de vendas."
+  },
+  {
+    "CPF": "987.654.321-00",
+    "nome": "Maria Oliveira",
+    "salario_cents": 250000,
+    "id_cargo": 2,
+    "descricao_funcao": "Supervisiona o departamento de alimentos, garantindo o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+  },
+  {
+    "CPF": "111.222.333-44",
+    "nome": "José Santos",
+    "salario_cents": 220000,
+    "id_cargo": 2,
+    "descricao_funcao": "Supervisiona o departamento de limpeza, garantindo o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+  },
+  {
+    "CPF": "555.666.777-88",
+    "nome": "Ana Costa",
+    "salario_cents": 180000,
+    "id_cargo": 3,
+    "descricao_funcao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente e garantia de conformidade com os procedimentos de pagamento."
+  },
+  {
+    "CPF": "999.888.777-66",
+    "nome": "Pedro Lima",
+    "salario_cents": 200000,
+    "id_cargo": 3,
+    "descricao_funcao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente e garantia de conformidade com os procedimentos de pagamento."
+  },
+  {
+    "CPF": "123.789.456-11",
+    "nome": "Carla Sousa",
+    "salario_cents": 180000,
+    "id_cargo": 4,
+    "descricao_funcao": "Atende aos clientes no balcao de padaria, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+  },
+  {
+    "CPF": "789.456.123-22",
+    "nome": "Lucas Pereira",
+    "salario_cents": 190000,
+    "id_cargo": 4,
+    "descricao_funcao": "Atende aos clientes no balcao de acougue, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+  },
+  {
+    "CPF": "147.258.369-33",
+    "nome": "Fernanda Santos",
+    "salario_cents": 170000,
+    "id_cargo": 5,
+    "descricao_funcao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+  },
+  {
+    "CPF": "369.258.147-44",
+    "nome": "Marcos Oliveira",
+    "salario_cents": 160000,
+    "id_cargo": 5,
+    "descricao_funcao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+  },
+  {
+    "CPF": "741.852.963-55",
+    "nome": "Rafaela Ferreira",
+    "salario_cents": 180000,
+    "id_cargo": 6,
+    "descricao_funcao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+  },
+  {
+    "CPF": "852.963.741-66",
+    "nome": "Gustavo Martins",
+    "salario_cents": 170000,
+    "id_cargo": 6,
+    "descricao_funcao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+  },
+  {
+    "CPF": "963.741.852-77",
+    "nome": "Caroline Silva",
+    "salario_cents": 160000,
+    "id_cargo": 7,
+    "descricao_funcao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+  },
+  {
+    "CPF": "852.741.963-88",
+    "nome": "Daniel Oliveira",
+    "salario_cents": 150000,
+    "id_cargo": 7,
+    "descricao_funcao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+  },
+  {
+    "CPF": "741.963.852-99",
+    "nome": "Patrícia Lima",
+    "salario_cents": 160000,
+    "id_cargo": 8,
+    "descricao_funcao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+  },
+  {
+    "CPF": "963.852.741-10",
+    "nome": "Antônio Santos",
+    "salario_cents": 150000,
+    "id_cargo": 8,
+    "descricao_funcao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+  },
+  {
+    "CPF": "321.654.987-11",
+    "nome": "Beatriz Souza",
+    "salario_cents": 180000,
+    "id_cargo": 9,
+    "descricao_funcao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+  },
+  {
+    "CPF": "654.987.321-22",
+    "nome": "Roberto Castro",
+    "salario_cents": 170000,
+    "id_cargo": 9,
+    "descricao_funcao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+  },
+  {
+    "CPF": "987.321.654-33",
+    "nome": "Marcela Oliveira",
+    "salario_cents": 160000,
+    "id_cargo": 10,
+    "descricao_funcao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+  },
+  {
+    "CPF": "321.987.654-44",
+    "nome": "Luciana Costa",
+    "salario_cents": 150000,
+    "id_cargo": 10,
+    "descricao_funcao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+  }
+]

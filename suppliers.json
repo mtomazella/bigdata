@@ -1,0 +1,26 @@
+[
+    {
+        "cnpj": "12.345.678/0001-00",
+        "nome": "Fornecedor ABC Ltda"
+    },
+    {
+        "cnpj": "98.765.432/0001-11",
+        "nome": "Distribuidora XYZ S.A."
+    },
+    {
+        "cnpj": "11.222.333/0001-44",
+        "nome": "Companhia de Alimentos QRS"
+    },
+    {
+        "cnpj": "55.666.777/0001-88",
+        "nome": "Indústria de Bebidas LMN Ltda"
+    },
+    {
+        "cnpj": "99.888.777/0001-66",
+        "nome": "Fornecedor de Produtos Naturais DEF"
+    },
+    {
+        "cnpj": "12.789.456/0001-11",
+        "nome": "Distribuidora de Produtos Eletrônicos GHI S.A."
+    }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "001",
+    "nome": "Maca",
+    "descricao": "Macas frescas da estacao",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "002",
+    "nome": "Arroz",
+    "descricao": "Arroz branco de graos longos",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "003",
+    "nome": "Sabonete",
+    "descricao": "Sabonete líquido hidratante",
+    "categoria": "Higiene",
+    "preco_centavos": 200
+  },
+  {
+    "id": "004",
+    "nome": "Leite",
+    "descricao": "Leite integral pasteurizado",
+    "categoria": "Alimento",
+    "preco_centavos": 250
+  },
+  {
+    "id": "005",
+    "nome": "Refrigerante",
+    "descricao": "Refrigerante sabor cola",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "006",
+    "nome": "Pao",
+    "descricao": "Pao de forma integral",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "007",
+    "nome": "Detergente",
+    "descricao": "Detergente concentrado para loucas",
+    "categoria": "Limpeza",
+    "preco_centavos": 400
+  },
+  {
+    "id": "008",
+    "nome": "Banana",
+    "descricao": "Bananas maduras",
+    "categoria": "Alimento",
+    "preco_centavos": 100
+  },
+  {
+    "id": "009",
+    "nome": "Café",
+    "descricao": "Café em graos torrados",
+    "categoria": "Bebida",
+    "preco_centavos": 350
+  },
+  {
+    "id": "010",
+    "nome": "Shampoo",
+    "descricao": "Shampoo fortificante para cabelos",
+    "categoria": "Higiene",
+    "preco_centavos": 500
+  },
+  {
+    "id": "011",
+    "nome": "Queijo",
+    "descricao": "Queijo mucarela fatiado",
+    "categoria": "Alimento",
+    "preco_centavos": 450
+  },
+  {
+    "id": "012",
+    "nome": "Suco de Laranja",
+    "descricao": "Suco de laranja natural",
+    "categoria": "Bebida",
+    "preco_centavos": 300
+  },
+  {
+    "id": "013",
+    "nome": "Sabao em Pó",
+    "descricao": "Sabao em pó para lavar roupas",
+    "categoria": "Limpeza",
+    "preco_centavos": 350
+  },
+  {
+    "id": "014",
+    "nome": "Maionese",
+    "descricao": "Maionese tradicional",
+    "categoria": "Alimento",
+    "preco_centavos": 200
+  },
+  {
+    "id": "015",
+    "nome": "Água Mineral",
+    "descricao": "Água mineral natural",
+    "categoria": "Bebida",
+    "preco_centavos": 100
+  },
+  {
+    "id": "016",
+    "nome": "Condicionador",
+    "descricao": "Condicionador reparador para cabelos",
+    "categoria": "Higiene",
+    "preco_centavos": 550
+  },
+  {
+    "id": "017",
+    "nome": "Ovos",
+    "descricao": "Ovos brancos",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "018",
+    "nome": "Cerveja",
+    "descricao": "Cerveja Pilsen",
+    "categoria": "Bebida",
+    "preco_centavos": 250
+  },
+  {
+    "id": "019",
+    "nome": "Desinfetante",
+    "descricao": "Desinfetante multiuso",
+    "categoria": "Limpeza",
+    "preco_centavos": 450
+  },
+  {
+    "id": "020",
+    "nome": "Iogurte",
+    "descricao": "Iogurte natural sem adicao de acúcares",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "021",
+    "nome": "Chá",
+    "descricao": "Chá de camomila",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "022",
+    "nome": "Pasta de Dente",
+    "descricao": "Pasta de dente com flúor",
+    "categoria": "Higiene",
+    "preco_centavos": 300
+  },
+  {
+    "id": "023",
+    "nome": "Feijao",
+    "descricao": "Feijao preto de alta qualidade",
+    "categoria": "Alimento",
+    "preco_centavos": 400
+  },
+  {
+    "id": "024",
+    "nome": "Vinho Tinto",
+    "descricao": "Vinho tinto seco",
+    "categoria": "Bebida",
+    "preco_centavos": 800
+  },
+  {
+    "id": "025",
+    "nome": "Limpa Vidros",
+    "descricao": "Produto para limpeza de vidros",
+    "categoria": "Limpeza",
+    "preco_centavos": 600
+  },
+  {
+    "id": "026",
+    "nome": "Bolacha",
+    "descricao": "Bolachas recheadas",
+    "categoria": "Alimento",
+    "preco_centavos": 250
+  },
+  {
+    "id": "027",
+    "nome": "Água Sanitária",
+    "descricao": "Água sanitária com cloro",
+    "categoria": "Limpeza",
+    "preco_centavos": 300
+  },
+  {
+    "id": "028",
+    "nome": "Manteiga",
+    "descricao": "Manteiga sem sal",
+    "categoria": "Alimento",
+    "preco_centavos": 350
+  },
+  {
+    "id": "029",
+    "nome": "Energético",
+    "descricao": "Bebida energética",
+    "categoria": "Bebida",
+    "preco_centavos": 500
+  },
+  {
+    "id": "030",
+    "nome": "Protetor Solar",
+    "descricao": "Protetor solar FPS 50",
+    "categoria": "Higiene",
+    "preco_centavos": 750
+  },
+  {
+    "id": "031",
+    "nome": "Macarrao",
+    "descricao": "Macarrao tipo espaguete",
+    "categoria": "Alimento",
+    "preco_centavos": 200
+  },
+  {
+    "id": "032",
+    "nome": "Leite Condensado",
+    "descricao": "Leite condensado cremoso",
+    "categoria": "Alimento",
+    "preco_centavos": 400
+  },
+  {
+    "id": "033",
+    "nome": "Cachaca",
+    "descricao": "Cachaca artesanal",
+    "categoria": "Bebida",
+    "preco_centavos": 600
+  },
+  {
+    "id": "034",
+    "nome": "Papel Higiênico",
+    "descricao": "Rolo de papel higiênico",
+    "categoria": "Higiene",
+    "preco_centavos": 200
+  },
+  {
+    "id": "035",
+    "nome": "Batata",
+    "descricao": "Batatas frescas",
+    "categoria": "Alimento",
+    "preco_centavos": 180
+  },
+  {
+    "id": "036",
+    "nome": "Feijao",
+    "descricao": "Feijao carioca",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "037",
+    "nome": "Gel de Banho",
+    "descricao": "Gel de banho refrescante",
+    "categoria": "Higiene",
+    "preco_centavos": 220
+  },
+  {
+    "id": "038",
+    "nome": "Creme de Leite",
+    "descricao": "Creme de leite pasteurizado",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "039",
+    "nome": "Água de Coco",
+    "descricao": "Água de coco natural",
+    "categoria": "Bebida",
+    "preco_centavos": 250
+  },
+  {
+    "id": "040",
+    "nome": "Amaciante de Roupas",
+    "descricao": "Amaciante de roupas com fragrância",
+    "categoria": "Limpeza",
+    "preco_centavos": 350
+  },
+  {
+    "id": "041",
+    "nome": "Laranja",
+    "descricao": "Laranjas suculentas",
+    "categoria": "Alimento",
+    "preco_centavos": 120
+  },
+  {
+    "id": "042",
+    "nome": "Suco de Uva",
+    "descricao": "Suco de uva integral",
+    "categoria": "Bebida",
+    "preco_centavos": 280
+  },
+  {
+    "id": "043",
+    "nome": "Desodorante",
+    "descricao": "Desodorante roll-on",
+    "categoria": "Higiene",
+    "preco_centavos": 400
+  },
+  {
+    "id": "044",
+    "nome": "Cereal Matinal",
+    "descricao": "Cereal matinal com frutas",
+    "categoria": "Alimento",
+    "preco_centavos": 280
+  },
+  {
+    "id": "045",
+    "nome": "Água Tônica",
+    "descricao": "Água tônica para drinks",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "046",
+    "nome": "Limpador Multiuso",
+    "descricao": "Limpador multiuso com aroma de lavanda",
+    "categoria": "Limpeza",
+    "preco_centavos": 450
+  },
+  {
+    "id": "047",
+    "nome": "Morango",
+    "descricao": "Morangos frescos e doces",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "048",
+    "nome": "Café Solúvel",
+    "descricao": "Café solúvel em pó",
+    "categoria": "Bebida",
+    "preco_centavos": 400
+  },
+  {
+    "id": "049",
+    "nome": "Escova de Dentes",
+    "descricao": "Escova de dentes média",
+    "categoria": "Higiene",
+    "preco_centavos": 150
+  },
+  {
+    "id": "050",
+    "nome": "Farinha de Mandioca",
+    "descricao": "Farinha de mandioca fina",
+    "categoria": "Alimento",
+    "preco_centavos": 220
+  },
+  {
+    "id": "051",
+    "nome": "Suco de Maca",
+    "descricao": "Suco de maca natural",
+    "categoria": "Bebida",
+    "preco_centavos": 280
+  },
+  {
+    "id": "052",
+    "nome": "Fio Dental",
+    "descricao": "Fio dental encerado",
+    "categoria": "Higiene",
+    "preco_centavos": 180
+  },
+  {
+    "id": "053",
+    "nome": "Pao de Queijo",
+    "descricao": "Pao de queijo tradicional",
+    "categoria": "Alimento",
+    "preco_centavos": 200
+  },
+  {
+    "id": "054",
+    "nome": "Vodka",
+    "descricao": "Vodka nacional",
+    "categoria": "Bebida",
+    "preco_centavos": 700
+  },
+  {
+    "id": "055",
+    "nome": "Sabao em Barra",
+    "descricao": "Sabao em barra para lavar roupas",
+    "categoria": "Limpeza",
+    "preco_centavos": 250
+  },
+  {
+    "id": "056",
+    "nome": "Abacate",
+    "descricao": "Abacates maduros",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "057",
+    "nome": "Suco de Pêssego",
+    "descricao": "Suco de pêssego concentrado",
+    "categoria": "Bebida",
+    "preco_centavos": 320
+  },
+  {
+    "id": "058",
+    "nome": "Creme Dental",
+    "descricao": "Creme dental com flúor",
+    "categoria": "Higiene",
+    "preco_centavos": 200
+  },
+  {
+    "id": "059",
+    "nome": "Azeite de Oliva",
+    "descricao": "Azeite de oliva extra virgem",
+    "categoria": "Alimento",
+    "preco_centavos": 550
+  },
+  {
+    "id": "060",
+    "nome": "Cerveja Artesanal",
+    "descricao": "Cerveja artesanal IPA",
+    "categoria": "Bebida",
+    "preco_centavos": 650
+  },
+  {
+    "id": "061",
+    "nome": "Limpa Carpetes",
+    "descricao": "Produto para limpeza de carpetes",
+    "categoria": "Limpeza",
+    "preco_centavos": 600
+  },
+  {
+    "id": "062",
+    "nome": "Kiwi",
+    "descricao": "Kiwi fresco e suculento",
+    "categoria": "Alimento",
+    "preco_centavos": 180
+  },
+  {
+    "id": "063",
+    "nome": "Chá Verde",
+    "descricao": "Chá verde puro",
+    "categoria": "Bebida",
+    "preco_centavos": 300
+  },
+  {
+    "id": "064",
+    "nome": "Creme Hidratante",
+    "descricao": "Creme hidratante para pele seca",
+    "categoria": "Higiene",
+    "preco_centavos": 450
+  },
+  {
+    "id": "065",
+    "nome": "Farinha de Trigo",
+    "descricao": "Farinha de trigo especial",
+    "categoria": "Alimento",
+    "preco_centavos": 180
+  },
+  {
+    "id": "066",
+    "nome": "Refrigerante de Laranja",
+    "descricao": "Refrigerante sabor laranja",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "067",
+    "nome": "Hidratante Labial",
+    "descricao": "Hidratante labial com vitamina E",
+    "categoria": "Higiene",
+    "preco_centavos": 150
+  },
+  {
+    "id": "068",
+    "nome": "Acúcar Mascavo",
+    "descricao": "Acúcar mascavo orgânico",
+    "categoria": "Alimento",
+    "preco_centavos": 250
+  },
+  {
+    "id": "069",
+    "nome": "Espumante",
+    "descricao": "Espumante Brut",
+    "categoria": "Bebida",
+    "preco_centavos": 800
+  },
+  {
+    "id": "070",
+    "nome": "Lustra Móveis",
+    "descricao": "Lustra móveis em spray",
+    "categoria": "Limpeza",
+    "preco_centavos": 400
+  },
+  {
+    "id": "071",
+    "nome": "Uva",
+    "descricao": "Uvas frescas e doces",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "072",
+    "nome": "Suco de Limao",
+    "descricao": "Suco de limao natural",
+    "categoria": "Bebida",
+    "preco_centavos": 180
+  },
+  {
+    "id": "073",
+    "nome": "Enxaguante Bucal",
+    "descricao": "Enxaguante bucal sem álcool",
+    "categoria": "Higiene",
+    "preco_centavos": 300
+  },
+  {
+    "id": "074",
+    "nome": "Macarrao Instantâneo",
+    "descricao": "Macarrao instantâneo tipo Cup Noodles",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "075",
+    "nome": "Leite de Coco",
+    "descricao": "Leite de coco em lata",
+    "categoria": "Alimento",
+    "preco_centavos": 280
+  },
+  {
+    "id": "076",
+    "nome": "Fio Dental",
+    "descricao": "Fio dental encerado",
+    "categoria": "Higiene",
+    "preco_centavos": 200
+  },
+  {
+    "id": "077",
+    "nome": "Farinha de Milho",
+    "descricao": "Farinha de milho para cuscuz",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "078",
+    "nome": "Refresco em Pó",
+    "descricao": "Refresco em pó sabor laranja",
+    "categoria": "Bebida",
+    "preco_centavos": 180
+  },
+  {
+    "id": "079",
+    "nome": "Creme para Maos",
+    "descricao": "Creme hidratante para maos",
+    "categoria": "Higiene",
+    "preco_centavos": 250
+  },
+  {
+    "id": "080",
+    "nome": "Farofa Pronta",
+    "descricao": "Farofa pronta temperada",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "081",
+    "nome": "Água com Gás",
+    "descricao": "Água com gás em garrafa",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "082",
+    "nome": "Lustra Móveis",
+    "descricao": "Lustra móveis com aroma de lavanda",
+    "categoria": "Limpeza",
+    "preco_centavos": 350
+  },
+  {
+    "id": "083",
+    "nome": "Limao",
+    "descricao": "Limões frescos e ácidos",
+    "categoria": "Alimento",
+    "preco_centavos": 100
+  },
+  {
+    "id": "084",
+    "nome": "Suco de Goiaba",
+    "descricao": "Suco de goiaba natural",
+    "categoria": "Bebida",
+    "preco_centavos": 280
+  },
+  {
+    "id": "085",
+    "nome": "Cotonete",
+    "descricao": "Cotonetes de algodao",
+    "categoria": "Higiene",
+    "preco_centavos": 150
+  },
+  {
+    "id": "086",
+    "nome": "Fubá",
+    "descricao": "Fubá de milho",
+    "categoria": "Alimento",
+    "preco_centavos": 180
+  },
+  {
+    "id": "087",
+    "nome": "Cerveja Sem Álcool",
+    "descricao": "Cerveja sem álcool",
+    "categoria": "Bebida",
+    "preco_centavos": 250
+  },
+  {
+    "id": "088",
+    "nome": "Desengordurante",
+    "descricao": "Desengordurante concentrado",
+    "categoria": "Limpeza",
+    "preco_centavos": 500
+  },
+  {
+    "id": "089",
+    "nome": "Kiwi",
+    "descricao": "Kiwi fresco e suculento",
+    "categoria": "Alimento",
+    "preco_centavos": 300
+  },
+  {
+    "id": "090",
+    "nome": "Refresco de Uva",
+    "descricao": "Refresco de uva em pó",
+    "categoria": "Bebida",
+    "preco_centavos": 180
+  },
+  {
+    "id": "091",
+    "nome": "Escova de Cabelo",
+    "descricao": "Escova de cabelo grande",
+    "categoria": "Higiene",
+    "preco_centavos": 250
+  },
+  {
+    "id": "092",
+    "nome": "Cuscuz",
+    "descricao": "Cuscuz pronto",
+    "categoria": "Alimento",
+    "preco_centavos": 200
+  },
+  {
+    "id": "093",
+    "nome": "Chá de Hibisco",
+    "descricao": "Chá de hibisco em sachês",
+    "categoria": "Bebida",
+    "preco_centavos": 280
+  },
+  {
+    "id": "094",
+    "nome": "Locao Hidratante",
+    "descricao": "Locao hidratante para o corpo",
+    "categoria": "Higiene",
+    "preco_centavos": 400
+  },
+  {
+    "id": "095",
+    "nome": "Farinha de Trigo",
+    "descricao": "Farinha de trigo refinada",
+    "categoria": "Alimento",
+    "preco_centavos": 180
+  },
+  {
+    "id": "096",
+    "nome": "Refresco de Laranja",
+    "descricao": "Refresco de laranja em pó",
+    "categoria": "Bebida",
+    "preco_centavos": 200
+  },
+  {
+    "id": "097",
+    "nome": "Creme para os Pés",
+    "descricao": "Creme hidratante para os pés",
+    "categoria": "Higiene",
+    "preco_centavos": 300
+  },
+  {
+    "id": "098",
+    "nome": "Macarrao Instantâneo",
+    "descricao": "Macarrao instantâneo sabor galinha",
+    "categoria": "Alimento",
+    "preco_centavos": 150
+  },
+  {
+    "id": "099",
+    "nome": "Suco de Manga",
+    "descricao": "Suco de manga natural",
+    "categoria": "Bebida",
+    "preco_centavos": 280
+  },
+  {
+    "id": "100",
+    "nome": "Sabonete Líquido",
+    "descricao": "Sabonete líquido com aroma de lavanda",
+    "categoria": "Higiene",
+    "preco_centavos": 220
+  },
+  {
+    "id": "101",
+    "nome": "Notebook ABC",
+    "descricao": "Notebook leve e potente, ideal para trabalho e entretenimento.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 250000
+  },
+  {
+    "id": "102",
+    "nome": "Televisor LED 4K",
+    "descricao": "Televisor LED com resolucao 4K e tecnologia de alta definicao de imagem.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 800000
+  },
+  {
+    "id": "103",
+    "nome": "Fones de Ouvido Bluetooth",
+    "descricao": "Fones de ouvido sem fio com conexao Bluetooth e cancelamento de ruído.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 100000
+  },
+  {
+    "id": "104",
+    "nome": "Console de Videogame X",
+    "descricao": "Console de videogame de última geracao com jogos exclusivos.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 400000
+  },
+  {
+    "id": "105",
+    "nome": "Tablet Touchscreen",
+    "descricao": "Tablet com tela touchscreen de alta sensibilidade e processador rápido.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 300000
+  },
+  {
+    "id": "106",
+    "nome": "Câmera Digital Profissional",
+    "descricao": "Câmera digital com sensor de alta resolucao e lentes intercambiáveis.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 600000
+  },
+  {
+    "id": "107",
+    "nome": "Smartwatch",
+    "descricao": "Relógio inteligente com monitor de atividades físicas e notificacões.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 200000
+  },
+  {
+    "id": "108",
+    "nome": "Caixa de Som Bluetooth",
+    "descricao": "Caixa de som portátil com conexao Bluetooth e qualidade de áudio premium.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 12000
+  },
+  {
+    "id": "109",
+    "nome": "Impressora Multifuncional",
+    "descricao": "Impressora multifuncional com funcao de cópia, digitalizacao e impressao rápida.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 18000
+  },
+  {
+    "id": "110",
+    "nome": "Roteador Wi-Fi de Alta Velocidade",
+    "descricao": "Roteador Wi-Fi com tecnologia de última geracao para conexões rápidas e estáveis.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 15000
+  },
+  {
+    "id": "111",
+    "nome": "Mouse Gamer",
+    "descricao": "Mouse gamer com sensor óptico de alta precisao e design ergonômico.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 7000
+  },
+  {
+    "id": "112",
+    "nome": "Teclado Mecânico RGB",
+    "descricao": "Teclado mecânico com iluminacao RGB e switches táteis para melhor desempenho em jogos.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 8000
+  },
+  {
+    "id": "113",
+    "nome": "Câmera de Seguranca Wi-Fi",
+    "descricao": "Câmera de seguranca com conexao Wi-Fi para monitoramento remoto em tempo real.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 13000
+  },
+  {
+    "id": "114",
+    "nome": "Carregador Portátil",
+    "descricao": "Carregador portátil com capacidade de carga rápida para smartphones e tablets.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 5000
+  },
+  {
+    "id": "115",
+    "nome": "Auriculares de Realidade Virtual",
+    "descricao": "Auriculares de realidade virtual para experiências imersivas em jogos e vídeos.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 7000
+  },
+  {
+    "id": "116",
+    "nome": "Hub USB de Alta Velocidade",
+    "descricao": "Hub USB com múltiplas portas de alta velocidade para conexao de periféricos.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 40000
+  },
+  {
+    "id": "117",
+    "nome": "Projetor Full HD",
+    "descricao": "Projetor com resolucao Full HD e alto brilho para apresentacões e entretenimento em casa.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 70000
+  },
+  {
+    "id": "118",
+    "nome": "Placa de Vídeo Gamer",
+    "descricao": "Placa de vídeo de alta performance para jogos e edicao de vídeo profissional.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 9000
+  },
+  {
+    "id": "119",
+    "nome": "Smart Speaker",
+    "descricao": "Alto-falante inteligente com assistente virtual integrado e controle por voz.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 25000
+  },
+  {
+    "id": "120",
+    "nome": "Smartphone XYZ",
+    "descricao": "Smartphone com tela de alta resolucao e câmera de alta qualidade.",
+    "categoria": "Eletrônicos",
+    "preco_centavos": 150000
+  }
+]

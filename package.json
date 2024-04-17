@@ -1,0 +1,16 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formatProductsAndGeneratePrices.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maya Tomazella",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mariadb": "^3.2.3",
+    "uuid": "^9.0.1"
+  }
+}

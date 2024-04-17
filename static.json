@@ -1,0 +1,2748 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "nome": "Maca",
+      "descricao": "Macas frescas da estacao",
+      "id_categoria": "0"
+    },
+    {
+      "id": "002",
+      "nome": "Arroz",
+      "descricao": "Arroz branco de graos longos",
+      "id_categoria": "0"
+    },
+    {
+      "id": "003",
+      "nome": "Sabonete",
+      "descricao": "Sabonete líquido hidratante",
+      "id_categoria": "1"
+    },
+    {
+      "id": "004",
+      "nome": "Leite",
+      "descricao": "Leite integral pasteurizado",
+      "id_categoria": "0"
+    },
+    {
+      "id": "005",
+      "nome": "Refrigerante",
+      "descricao": "Refrigerante sabor cola",
+      "id_categoria": "2"
+    },
+    {
+      "id": "006",
+      "nome": "Pao",
+      "descricao": "Pao de forma integral",
+      "id_categoria": "0"
+    },
+    {
+      "id": "007",
+      "nome": "Detergente",
+      "descricao": "Detergente concentrado para loucas",
+      "id_categoria": "3"
+    },
+    {
+      "id": "008",
+      "nome": "Banana",
+      "descricao": "Bananas maduras",
+      "id_categoria": "0"
+    },
+    {
+      "id": "009",
+      "nome": "Café",
+      "descricao": "Café em graos torrados",
+      "id_categoria": "2"
+    },
+    {
+      "id": "010",
+      "nome": "Shampoo",
+      "descricao": "Shampoo fortificante para cabelos",
+      "id_categoria": "1"
+    },
+    {
+      "id": "011",
+      "nome": "Queijo",
+      "descricao": "Queijo mucarela fatiado",
+      "id_categoria": "0"
+    },
+    {
+      "id": "012",
+      "nome": "Suco de Laranja",
+      "descricao": "Suco de laranja natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "013",
+      "nome": "Sabao em Pó",
+      "descricao": "Sabao em pó para lavar roupas",
+      "id_categoria": "3"
+    },
+    {
+      "id": "014",
+      "nome": "Maionese",
+      "descricao": "Maionese tradicional",
+      "id_categoria": "0"
+    },
+    {
+      "id": "015",
+      "nome": "Água Mineral",
+      "descricao": "Água mineral natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "016",
+      "nome": "Condicionador",
+      "descricao": "Condicionador reparador para cabelos",
+      "id_categoria": "1"
+    },
+    {
+      "id": "017",
+      "nome": "Ovos",
+      "descricao": "Ovos brancos",
+      "id_categoria": "0"
+    },
+    {
+      "id": "018",
+      "nome": "Cerveja",
+      "descricao": "Cerveja Pilsen",
+      "id_categoria": "2"
+    },
+    {
+      "id": "019",
+      "nome": "Desinfetante",
+      "descricao": "Desinfetante multiuso",
+      "id_categoria": "3"
+    },
+    {
+      "id": "020",
+      "nome": "Iogurte",
+      "descricao": "Iogurte natural sem adicao de acúcares",
+      "id_categoria": "0"
+    },
+    {
+      "id": "021",
+      "nome": "Chá",
+      "descricao": "Chá de camomila",
+      "id_categoria": "2"
+    },
+    {
+      "id": "022",
+      "nome": "Pasta de Dente",
+      "descricao": "Pasta de dente com flúor",
+      "id_categoria": "1"
+    },
+    {
+      "id": "023",
+      "nome": "Feijao",
+      "descricao": "Feijao preto de alta qualidade",
+      "id_categoria": "0"
+    },
+    {
+      "id": "024",
+      "nome": "Vinho Tinto",
+      "descricao": "Vinho tinto seco",
+      "id_categoria": "2"
+    },
+    {
+      "id": "025",
+      "nome": "Limpa Vidros",
+      "descricao": "Produto para limpeza de vidros",
+      "id_categoria": "3"
+    },
+    {
+      "id": "026",
+      "nome": "Bolacha",
+      "descricao": "Bolachas recheadas",
+      "id_categoria": "0"
+    },
+    {
+      "id": "027",
+      "nome": "Água Sanitária",
+      "descricao": "Água sanitária com cloro",
+      "id_categoria": "3"
+    },
+    {
+      "id": "028",
+      "nome": "Manteiga",
+      "descricao": "Manteiga sem sal",
+      "id_categoria": "0"
+    },
+    {
+      "id": "029",
+      "nome": "Energético",
+      "descricao": "Bebida energética",
+      "id_categoria": "2"
+    },
+    {
+      "id": "030",
+      "nome": "Protetor Solar",
+      "descricao": "Protetor solar FPS 50",
+      "id_categoria": "1"
+    },
+    {
+      "id": "031",
+      "nome": "Macarrao",
+      "descricao": "Macarrao tipo espaguete",
+      "id_categoria": "0"
+    },
+    {
+      "id": "032",
+      "nome": "Leite Condensado",
+      "descricao": "Leite condensado cremoso",
+      "id_categoria": "0"
+    },
+    {
+      "id": "033",
+      "nome": "Cachaca",
+      "descricao": "Cachaca artesanal",
+      "id_categoria": "2"
+    },
+    {
+      "id": "034",
+      "nome": "Papel Higiênico",
+      "descricao": "Rolo de papel higiênico",
+      "id_categoria": "1"
+    },
+    {
+      "id": "035",
+      "nome": "Batata",
+      "descricao": "Batatas frescas",
+      "id_categoria": "0"
+    },
+    {
+      "id": "036",
+      "nome": "Feijao",
+      "descricao": "Feijao carioca",
+      "id_categoria": "0"
+    },
+    {
+      "id": "037",
+      "nome": "Gel de Banho",
+      "descricao": "Gel de banho refrescante",
+      "id_categoria": "1"
+    },
+    {
+      "id": "038",
+      "nome": "Creme de Leite",
+      "descricao": "Creme de leite pasteurizado",
+      "id_categoria": "0"
+    },
+    {
+      "id": "039",
+      "nome": "Água de Coco",
+      "descricao": "Água de coco natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "040",
+      "nome": "Amaciante de Roupas",
+      "descricao": "Amaciante de roupas com fragrância",
+      "id_categoria": "3"
+    },
+    {
+      "id": "041",
+      "nome": "Laranja",
+      "descricao": "Laranjas suculentas",
+      "id_categoria": "0"
+    },
+    {
+      "id": "042",
+      "nome": "Suco de Uva",
+      "descricao": "Suco de uva integral",
+      "id_categoria": "2"
+    },
+    {
+      "id": "043",
+      "nome": "Desodorante",
+      "descricao": "Desodorante roll-on",
+      "id_categoria": "1"
+    },
+    {
+      "id": "044",
+      "nome": "Cereal Matinal",
+      "descricao": "Cereal matinal com frutas",
+      "id_categoria": "0"
+    },
+    {
+      "id": "045",
+      "nome": "Água Tônica",
+      "descricao": "Água tônica para drinks",
+      "id_categoria": "2"
+    },
+    {
+      "id": "046",
+      "nome": "Limpador Multiuso",
+      "descricao": "Limpador multiuso com aroma de lavanda",
+      "id_categoria": "3"
+    },
+    {
+      "id": "047",
+      "nome": "Morango",
+      "descricao": "Morangos frescos e doces",
+      "id_categoria": "0"
+    },
+    {
+      "id": "048",
+      "nome": "Café Solúvel",
+      "descricao": "Café solúvel em pó",
+      "id_categoria": "2"
+    },
+    {
+      "id": "049",
+      "nome": "Escova de Dentes",
+      "descricao": "Escova de dentes média",
+      "id_categoria": "1"
+    },
+    {
+      "id": "050",
+      "nome": "Farinha de Mandioca",
+      "descricao": "Farinha de mandioca fina",
+      "id_categoria": "0"
+    },
+    {
+      "id": "051",
+      "nome": "Suco de Maca",
+      "descricao": "Suco de maca natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "052",
+      "nome": "Fio Dental",
+      "descricao": "Fio dental encerado",
+      "id_categoria": "1"
+    },
+    {
+      "id": "053",
+      "nome": "Pao de Queijo",
+      "descricao": "Pao de queijo tradicional",
+      "id_categoria": "0"
+    },
+    {
+      "id": "054",
+      "nome": "Vodka",
+      "descricao": "Vodka nacional",
+      "id_categoria": "2"
+    },
+    {
+      "id": "055",
+      "nome": "Sabao em Barra",
+      "descricao": "Sabao em barra para lavar roupas",
+      "id_categoria": "3"
+    },
+    {
+      "id": "056",
+      "nome": "Abacate",
+      "descricao": "Abacates maduros",
+      "id_categoria": "0"
+    },
+    {
+      "id": "057",
+      "nome": "Suco de Pêssego",
+      "descricao": "Suco de pêssego concentrado",
+      "id_categoria": "2"
+    },
+    {
+      "id": "058",
+      "nome": "Creme Dental",
+      "descricao": "Creme dental com flúor",
+      "id_categoria": "1"
+    },
+    {
+      "id": "059",
+      "nome": "Azeite de Oliva",
+      "descricao": "Azeite de oliva extra virgem",
+      "id_categoria": "0"
+    },
+    {
+      "id": "060",
+      "nome": "Cerveja Artesanal",
+      "descricao": "Cerveja artesanal IPA",
+      "id_categoria": "2"
+    },
+    {
+      "id": "061",
+      "nome": "Limpa Carpetes",
+      "descricao": "Produto para limpeza de carpetes",
+      "id_categoria": "3"
+    },
+    {
+      "id": "062",
+      "nome": "Kiwi",
+      "descricao": "Kiwi fresco e suculento",
+      "id_categoria": "0"
+    },
+    {
+      "id": "063",
+      "nome": "Chá Verde",
+      "descricao": "Chá verde puro",
+      "id_categoria": "2"
+    },
+    {
+      "id": "064",
+      "nome": "Creme Hidratante",
+      "descricao": "Creme hidratante para pele seca",
+      "id_categoria": "1"
+    },
+    {
+      "id": "065",
+      "nome": "Farinha de Trigo",
+      "descricao": "Farinha de trigo especial",
+      "id_categoria": "0"
+    },
+    {
+      "id": "066",
+      "nome": "Refrigerante de Laranja",
+      "descricao": "Refrigerante sabor laranja",
+      "id_categoria": "2"
+    },
+    {
+      "id": "067",
+      "nome": "Hidratante Labial",
+      "descricao": "Hidratante labial com vitamina E",
+      "id_categoria": "1"
+    },
+    {
+      "id": "068",
+      "nome": "Acúcar Mascavo",
+      "descricao": "Acúcar mascavo orgânico",
+      "id_categoria": "0"
+    },
+    {
+      "id": "069",
+      "nome": "Espumante",
+      "descricao": "Espumante Brut",
+      "id_categoria": "2"
+    },
+    {
+      "id": "070",
+      "nome": "Lustra Móveis",
+      "descricao": "Lustra móveis em spray",
+      "id_categoria": "3"
+    },
+    {
+      "id": "071",
+      "nome": "Uva",
+      "descricao": "Uvas frescas e doces",
+      "id_categoria": "0"
+    },
+    {
+      "id": "072",
+      "nome": "Suco de Limao",
+      "descricao": "Suco de limao natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "073",
+      "nome": "Enxaguante Bucal",
+      "descricao": "Enxaguante bucal sem álcool",
+      "id_categoria": "1"
+    },
+    {
+      "id": "074",
+      "nome": "Macarrao Instantâneo",
+      "descricao": "Macarrao instantâneo tipo Cup Noodles",
+      "id_categoria": "0"
+    },
+    {
+      "id": "075",
+      "nome": "Leite de Coco",
+      "descricao": "Leite de coco em lata",
+      "id_categoria": "0"
+    },
+    {
+      "id": "076",
+      "nome": "Fio Dental",
+      "descricao": "Fio dental encerado",
+      "id_categoria": "1"
+    },
+    {
+      "id": "077",
+      "nome": "Farinha de Milho",
+      "descricao": "Farinha de milho para cuscuz",
+      "id_categoria": "0"
+    },
+    {
+      "id": "078",
+      "nome": "Refresco em Pó",
+      "descricao": "Refresco em pó sabor laranja",
+      "id_categoria": "2"
+    },
+    {
+      "id": "079",
+      "nome": "Creme para Maos",
+      "descricao": "Creme hidratante para maos",
+      "id_categoria": "1"
+    },
+    {
+      "id": "080",
+      "nome": "Farofa Pronta",
+      "descricao": "Farofa pronta temperada",
+      "id_categoria": "0"
+    },
+    {
+      "id": "081",
+      "nome": "Água com Gás",
+      "descricao": "Água com gás em garrafa",
+      "id_categoria": "2"
+    },
+    {
+      "id": "082",
+      "nome": "Lustra Móveis",
+      "descricao": "Lustra móveis com aroma de lavanda",
+      "id_categoria": "3"
+    },
+    {
+      "id": "083",
+      "nome": "Limao",
+      "descricao": "Limões frescos e ácidos",
+      "id_categoria": "0"
+    },
+    {
+      "id": "084",
+      "nome": "Suco de Goiaba",
+      "descricao": "Suco de goiaba natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "085",
+      "nome": "Cotonete",
+      "descricao": "Cotonetes de algodao",
+      "id_categoria": "1"
+    },
+    {
+      "id": "086",
+      "nome": "Fubá",
+      "descricao": "Fubá de milho",
+      "id_categoria": "0"
+    },
+    {
+      "id": "087",
+      "nome": "Cerveja Sem Álcool",
+      "descricao": "Cerveja sem álcool",
+      "id_categoria": "2"
+    },
+    {
+      "id": "088",
+      "nome": "Desengordurante",
+      "descricao": "Desengordurante concentrado",
+      "id_categoria": "3"
+    },
+    {
+      "id": "089",
+      "nome": "Kiwi",
+      "descricao": "Kiwi fresco e suculento",
+      "id_categoria": "0"
+    },
+    {
+      "id": "090",
+      "nome": "Refresco de Uva",
+      "descricao": "Refresco de uva em pó",
+      "id_categoria": "2"
+    },
+    {
+      "id": "091",
+      "nome": "Escova de Cabelo",
+      "descricao": "Escova de cabelo grande",
+      "id_categoria": "1"
+    },
+    {
+      "id": "092",
+      "nome": "Cuscuz",
+      "descricao": "Cuscuz pronto",
+      "id_categoria": "0"
+    },
+    {
+      "id": "093",
+      "nome": "Chá de Hibisco",
+      "descricao": "Chá de hibisco em sachês",
+      "id_categoria": "2"
+    },
+    {
+      "id": "094",
+      "nome": "Locao Hidratante",
+      "descricao": "Locao hidratante para o corpo",
+      "id_categoria": "1"
+    },
+    {
+      "id": "095",
+      "nome": "Farinha de Trigo",
+      "descricao": "Farinha de trigo refinada",
+      "id_categoria": "0"
+    },
+    {
+      "id": "096",
+      "nome": "Refresco de Laranja",
+      "descricao": "Refresco de laranja em pó",
+      "id_categoria": "2"
+    },
+    {
+      "id": "097",
+      "nome": "Creme para os Pés",
+      "descricao": "Creme hidratante para os pés",
+      "id_categoria": "1"
+    },
+    {
+      "id": "098",
+      "nome": "Macarrao Instantâneo",
+      "descricao": "Macarrao instantâneo sabor galinha",
+      "id_categoria": "0"
+    },
+    {
+      "id": "099",
+      "nome": "Suco de Manga",
+      "descricao": "Suco de manga natural",
+      "id_categoria": "2"
+    },
+    {
+      "id": "100",
+      "nome": "Sabonete Líquido",
+      "descricao": "Sabonete líquido com aroma de lavanda",
+      "id_categoria": "1"
+    },
+    {
+      "id": "101",
+      "nome": "Notebook ABC",
+      "descricao": "Notebook leve e potente, ideal para trabalho e entretenimento.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "102",
+      "nome": "Televisor LED 4K",
+      "descricao": "Televisor LED com resolucao 4K e tecnologia de alta definicao de imagem.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "103",
+      "nome": "Fones de Ouvido Bluetooth",
+      "descricao": "Fones de ouvido sem fio com conexao Bluetooth e cancelamento de ruído.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "104",
+      "nome": "Console de Videogame X",
+      "descricao": "Console de videogame de última geracao com jogos exclusivos.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "105",
+      "nome": "Tablet Touchscreen",
+      "descricao": "Tablet com tela touchscreen de alta sensibilidade e processador rápido.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "106",
+      "nome": "Câmera Digital Profissional",
+      "descricao": "Câmera digital com sensor de alta resolucao e lentes intercambiáveis.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "107",
+      "nome": "Smartwatch",
+      "descricao": "Relógio inteligente com monitor de atividades físicas e notificacões.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "108",
+      "nome": "Caixa de Som Bluetooth",
+      "descricao": "Caixa de som portátil com conexao Bluetooth e qualidade de áudio premium.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "109",
+      "nome": "Impressora Multifuncional",
+      "descricao": "Impressora multifuncional com funcao de cópia, digitalizacao e impressao rápida.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "110",
+      "nome": "Roteador Wi-Fi de Alta Velocidade",
+      "descricao": "Roteador Wi-Fi com tecnologia de última geracao para conexões rápidas e estáveis.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "111",
+      "nome": "Mouse Gamer",
+      "descricao": "Mouse gamer com sensor óptico de alta precisao e design ergonômico.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "112",
+      "nome": "Teclado Mecânico RGB",
+      "descricao": "Teclado mecânico com iluminacao RGB e switches táteis para melhor desempenho em jogos.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "113",
+      "nome": "Câmera de Seguranca Wi-Fi",
+      "descricao": "Câmera de seguranca com conexao Wi-Fi para monitoramento remoto em tempo real.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "114",
+      "nome": "Carregador Portátil",
+      "descricao": "Carregador portátil com capacidade de carga rápida para smartphones e tablets.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "115",
+      "nome": "Auriculares de Realidade Virtual",
+      "descricao": "Auriculares de realidade virtual para experiências imersivas em jogos e vídeos.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "116",
+      "nome": "Hub USB de Alta Velocidade",
+      "descricao": "Hub USB com múltiplas portas de alta velocidade para conexao de periféricos.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "117",
+      "nome": "Projetor Full HD",
+      "descricao": "Projetor com resolucao Full HD e alto brilho para apresentacões e entretenimento em casa.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "118",
+      "nome": "Placa de Vídeo Gamer",
+      "descricao": "Placa de vídeo de alta performance para jogos e edicao de vídeo profissional.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "119",
+      "nome": "Smart Speaker",
+      "descricao": "Alto-falante inteligente com assistente virtual integrado e controle por voz.",
+      "id_categoria": "4"
+    },
+    {
+      "id": "120",
+      "nome": "Smartphone XYZ",
+      "descricao": "Smartphone com tela de alta resolucao e câmera de alta qualidade.",
+      "id_categoria": "4"
+    }
+  ],
+  "categories": {
+    "Alimento": "0",
+    "Higiene": "1",
+    "Bebida": "2",
+    "Limpeza": "3",
+    "Eletrônicos": "4"
+  },
+  "prices": [
+    {
+      "id": "4a69e2d9-1501-474f-af3d-f3149a53c403",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "001",
+      "valor_cents": 150
+    },
+    {
+      "id": "303785b1-65fe-4b21-af23-4a8b18804689",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "002",
+      "valor_cents": 300
+    },
+    {
+      "id": "ad70e605-10d4-4827-989c-7ff290166500",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "003",
+      "valor_cents": 200
+    },
+    {
+      "id": "a2305e79-57ea-4c2e-80b2-ef5a99f29ffd",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "004",
+      "valor_cents": 250
+    },
+    {
+      "id": "d8b915d0-34f6-4407-81cb-087e0dddbf37",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "005",
+      "valor_cents": 200
+    },
+    {
+      "id": "d2cb0f2f-fd34-4975-9fb8-40a6e8da2df4",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "006",
+      "valor_cents": 150
+    },
+    {
+      "id": "937afe33-cc9f-4f0d-a152-480bdfadb377",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "007",
+      "valor_cents": 400
+    },
+    {
+      "id": "98d12a4e-ad57-47cf-a053-aa03447c9bec",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "008",
+      "valor_cents": 100
+    },
+    {
+      "id": "09d9b704-9085-44fb-bd74-ce3cbc147027",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "009",
+      "valor_cents": 350
+    },
+    {
+      "id": "e2ff5974-f5a6-40d5-a2bc-94bd75a6e477",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "010",
+      "valor_cents": 500
+    },
+    {
+      "id": "3a33bb98-56b7-4e41-a6f4-544034a62ad5",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "011",
+      "valor_cents": 450
+    },
+    {
+      "id": "5a5d5aaf-f8d6-4a26-bf26-68977b3283dd",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "012",
+      "valor_cents": 300
+    },
+    {
+      "id": "75cf3af3-8dda-4e56-a4a1-057473797908",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "013",
+      "valor_cents": 350
+    },
+    {
+      "id": "d38b5be4-be9c-4cdf-b480-afa672e04d47",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "014",
+      "valor_cents": 200
+    },
+    {
+      "id": "7fe99549-1a32-4dcd-9db8-c557076892bc",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "015",
+      "valor_cents": 100
+    },
+    {
+      "id": "5c9553c1-9afb-4070-8ff1-0ebc0eea3ab9",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "016",
+      "valor_cents": 550
+    },
+    {
+      "id": "0f10954b-3968-4fd7-9cc6-c55969888798",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "017",
+      "valor_cents": 300
+    },
+    {
+      "id": "12f8ec1f-0e67-48ba-bdb4-47f74e846a49",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "018",
+      "valor_cents": 250
+    },
+    {
+      "id": "a4866f71-476a-4290-b323-7ec36abdc96c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "019",
+      "valor_cents": 450
+    },
+    {
+      "id": "d0aff5c2-893c-48e9-965c-f3cd0c4b6abd",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "020",
+      "valor_cents": 150
+    },
+    {
+      "id": "ac88737e-f384-4f3b-bca0-d382f95556e1",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "021",
+      "valor_cents": 200
+    },
+    {
+      "id": "8cdb0c3f-dfe3-43b4-a1d1-9b744ab57d42",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "022",
+      "valor_cents": 300
+    },
+    {
+      "id": "dd0bac98-6229-4678-a5a4-2def5ef509a5",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "023",
+      "valor_cents": 400
+    },
+    {
+      "id": "41c16708-92e5-40d8-b933-e817e0d59227",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "024",
+      "valor_cents": 800
+    },
+    {
+      "id": "659404a0-37b3-4a62-9ede-52444068e9c4",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "025",
+      "valor_cents": 600
+    },
+    {
+      "id": "25a57610-600e-4bc4-aa84-284889bfd640",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "026",
+      "valor_cents": 250
+    },
+    {
+      "id": "9f727e73-f353-4cc3-8d22-bded1747851d",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "027",
+      "valor_cents": 300
+    },
+    {
+      "id": "e17de75e-c210-4d84-bffd-7dca2205722b",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "028",
+      "valor_cents": 350
+    },
+    {
+      "id": "8b89d254-c753-4808-b30d-5ea02d0f5594",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "029",
+      "valor_cents": 500
+    },
+    {
+      "id": "8b225ece-3b1c-45b4-98c3-c38acf6aafde",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "030",
+      "valor_cents": 750
+    },
+    {
+      "id": "1fbdfb5f-2761-4b7c-9410-293eccf4d1ee",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "031",
+      "valor_cents": 200
+    },
+    {
+      "id": "0b969676-fa47-4d1e-a9e4-18c2d4d1be28",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "032",
+      "valor_cents": 400
+    },
+    {
+      "id": "d72f7013-1cc9-48cb-9d49-0436a4467459",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "033",
+      "valor_cents": 600
+    },
+    {
+      "id": "1b6d98d7-31d7-4597-b65a-58c4795fb3bf",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "034",
+      "valor_cents": 200
+    },
+    {
+      "id": "d8b74924-25e6-4051-99fc-f4bde338c83c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "035",
+      "valor_cents": 180
+    },
+    {
+      "id": "9658e32a-fdfa-4e13-846d-a34c03ecf878",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "036",
+      "valor_cents": 300
+    },
+    {
+      "id": "64daa886-8434-41f8-b7da-b746cd75ef87",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "037",
+      "valor_cents": 220
+    },
+    {
+      "id": "280c439b-2a11-4196-b6f6-78b6449cc825",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "038",
+      "valor_cents": 150
+    },
+    {
+      "id": "17267bfb-4626-49b9-bf9f-284c73d5b42f",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "039",
+      "valor_cents": 250
+    },
+    {
+      "id": "57099d30-e9e0-4bda-9b84-cf1a296c3ee2",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "040",
+      "valor_cents": 350
+    },
+    {
+      "id": "dff48dae-9145-4881-ad79-b502ac5ae5f0",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "041",
+      "valor_cents": 120
+    },
+    {
+      "id": "399ff513-2ed9-4b5e-9cfe-d276865ba81e",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "042",
+      "valor_cents": 280
+    },
+    {
+      "id": "88675868-edac-4224-ae32-f72adf5bf768",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "043",
+      "valor_cents": 400
+    },
+    {
+      "id": "b104191a-02ff-4ea6-839e-78d054e3d3c5",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "044",
+      "valor_cents": 280
+    },
+    {
+      "id": "53bfc1ab-4951-455c-a6c3-555155172608",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "045",
+      "valor_cents": 200
+    },
+    {
+      "id": "099ff921-333d-49bd-8eac-f40c0913ecf4",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "046",
+      "valor_cents": 450
+    },
+    {
+      "id": "dbe8b553-938d-4a55-b7db-0c4b3c0009c3",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "047",
+      "valor_cents": 300
+    },
+    {
+      "id": "51c57d86-70fc-4261-a249-e458a68cd499",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "048",
+      "valor_cents": 400
+    },
+    {
+      "id": "042a5eaa-3d9d-41fc-bc7a-8a6af9d8247c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "049",
+      "valor_cents": 150
+    },
+    {
+      "id": "51577f14-a330-4aab-aace-755f7162250c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "050",
+      "valor_cents": 220
+    },
+    {
+      "id": "4311ff94-6ce5-4357-b185-e7ec773c9a5c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "051",
+      "valor_cents": 280
+    },
+    {
+      "id": "7d09df32-2d21-4cb3-889f-1cf9a6d71745",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "052",
+      "valor_cents": 180
+    },
+    {
+      "id": "bce17c4a-9941-4da1-9007-90703eebd0e8",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "053",
+      "valor_cents": 200
+    },
+    {
+      "id": "fe04331e-f05c-42c2-8c98-e515eb0981cc",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "054",
+      "valor_cents": 700
+    },
+    {
+      "id": "b8fb690b-fa14-417a-8285-9cc1e9a4ef34",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "055",
+      "valor_cents": 250
+    },
+    {
+      "id": "54c751ab-4d61-4e6f-b10c-3f148c837778",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "056",
+      "valor_cents": 300
+    },
+    {
+      "id": "f367ac3d-99bf-4c1b-832d-8a6e2ad1d78c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "057",
+      "valor_cents": 320
+    },
+    {
+      "id": "a68273c1-2097-43e3-baa5-4c1656783378",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "058",
+      "valor_cents": 200
+    },
+    {
+      "id": "781945b3-f8db-4d8a-b4d9-fe8afc726847",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "059",
+      "valor_cents": 550
+    },
+    {
+      "id": "08922dd5-b3eb-4698-b3cd-dbfd6ba0890a",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "060",
+      "valor_cents": 650
+    },
+    {
+      "id": "3be56984-bbb3-4d05-a85a-59a374d5b32c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "061",
+      "valor_cents": 600
+    },
+    {
+      "id": "a9ff28d5-2ba2-46f4-a380-8551c460ea17",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "062",
+      "valor_cents": 180
+    },
+    {
+      "id": "019d8b15-7232-4378-ae93-b0f77a370f38",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "063",
+      "valor_cents": 300
+    },
+    {
+      "id": "fd38fb24-aaa6-46f2-b30c-632013384a5e",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "064",
+      "valor_cents": 450
+    },
+    {
+      "id": "c455adbb-d92d-4397-9c7b-7a699f04af5e",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "065",
+      "valor_cents": 180
+    },
+    {
+      "id": "34c78793-8cc8-467a-9a55-865a8f9df711",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "066",
+      "valor_cents": 200
+    },
+    {
+      "id": "8308f3ad-0032-4af9-8936-b6241f37c52a",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "067",
+      "valor_cents": 150
+    },
+    {
+      "id": "7a63761b-5926-4cff-96c9-014b4e5ea5c4",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "068",
+      "valor_cents": 250
+    },
+    {
+      "id": "b6c4c860-62a0-4bc0-9fce-862836eb53e9",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "069",
+      "valor_cents": 800
+    },
+    {
+      "id": "b68e9fff-3757-402f-90ff-dfa049e285cc",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "070",
+      "valor_cents": 400
+    },
+    {
+      "id": "ede067db-9847-42fb-b210-8679cddc198f",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "071",
+      "valor_cents": 300
+    },
+    {
+      "id": "61bad3e7-948e-48a9-9fd9-5b45b997f491",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "072",
+      "valor_cents": 180
+    },
+    {
+      "id": "40d50883-4cfc-4942-80b8-af53498fed97",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "073",
+      "valor_cents": 300
+    },
+    {
+      "id": "2bfc5d82-d414-458b-aba8-577366bba6ec",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "074",
+      "valor_cents": 150
+    },
+    {
+      "id": "d30cb929-ac4e-4538-a84e-312fa9f7a02c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "075",
+      "valor_cents": 280
+    },
+    {
+      "id": "2d4cd20a-cd5d-404d-bed0-ccecee327568",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "076",
+      "valor_cents": 200
+    },
+    {
+      "id": "c7ce60ca-1e74-4476-bac4-0c3e70b462d8",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "077",
+      "valor_cents": 150
+    },
+    {
+      "id": "d501b035-e249-40e8-bf68-b422a59cf0ce",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "078",
+      "valor_cents": 180
+    },
+    {
+      "id": "1880d98c-9b1c-485e-9eed-97c4e1a408b5",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "079",
+      "valor_cents": 250
+    },
+    {
+      "id": "fbf04600-160f-4764-9515-0eac1fef07e6",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "080",
+      "valor_cents": 300
+    },
+    {
+      "id": "c96e38c2-b5ba-4b69-994e-2cd60c66c607",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "081",
+      "valor_cents": 200
+    },
+    {
+      "id": "122f8641-6126-4a1a-9067-96215be1b373",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "082",
+      "valor_cents": 350
+    },
+    {
+      "id": "cd58c94a-2718-4f71-923e-0b7b6ddb708d",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "083",
+      "valor_cents": 100
+    },
+    {
+      "id": "68ddbb4d-082b-44b5-8244-7ac62589dad9",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "084",
+      "valor_cents": 280
+    },
+    {
+      "id": "e78f7446-d0b5-4a19-8130-b7c33c42fde7",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "085",
+      "valor_cents": 150
+    },
+    {
+      "id": "cc3fcd5b-31b6-4cc9-b61d-88ed9ca6ae01",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "086",
+      "valor_cents": 180
+    },
+    {
+      "id": "5dc7745b-e0b3-42cb-8ca9-3be20ff9e78c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "087",
+      "valor_cents": 250
+    },
+    {
+      "id": "bd835ace-118b-4b82-a1cb-0adfa9171545",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "088",
+      "valor_cents": 500
+    },
+    {
+      "id": "e0a4c45e-1412-4af3-aa24-843753ae2809",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "089",
+      "valor_cents": 300
+    },
+    {
+      "id": "c790af0b-b046-4527-b355-7609fd35b766",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "090",
+      "valor_cents": 180
+    },
+    {
+      "id": "1a4e2f08-57a1-49ef-a4cf-1bc5cb667217",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "091",
+      "valor_cents": 250
+    },
+    {
+      "id": "c219aad7-82a0-4e4b-b814-d7aae2705b08",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "092",
+      "valor_cents": 200
+    },
+    {
+      "id": "538a7056-082a-4dfa-8e19-c7b5003a0de5",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "093",
+      "valor_cents": 280
+    },
+    {
+      "id": "c94bb767-7213-4bbb-a5c6-469fa731e2a2",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "094",
+      "valor_cents": 400
+    },
+    {
+      "id": "2cf10240-41d2-45ab-a223-c81731f2d167",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "095",
+      "valor_cents": 180
+    },
+    {
+      "id": "6da3e743-cdb8-44e9-8d30-620fdf19cced",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "096",
+      "valor_cents": 200
+    },
+    {
+      "id": "80152eeb-c56d-4523-bc39-22710925355e",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "097",
+      "valor_cents": 300
+    },
+    {
+      "id": "16c9058b-c032-47cf-9e83-c068dc6622ee",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "098",
+      "valor_cents": 150
+    },
+    {
+      "id": "cf5017ee-075a-47b1-b305-1c8c39dc6dcb",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "099",
+      "valor_cents": 280
+    },
+    {
+      "id": "f901944d-923e-413f-8bee-2825088c3bfb",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "100",
+      "valor_cents": 220
+    },
+    {
+      "id": "5bf1b55f-c70d-4cb0-a445-8e179737eddc",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "101",
+      "valor_cents": 250000
+    },
+    {
+      "id": "095f711b-e766-4ed6-a29e-482fa5b25ffb",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "102",
+      "valor_cents": 800000
+    },
+    {
+      "id": "327f2cbf-9be5-49b6-99b9-83bc223a17e6",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "103",
+      "valor_cents": 100000
+    },
+    {
+      "id": "5be5f80c-33a9-4ef2-b60c-bfe955ff5adc",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "104",
+      "valor_cents": 400000
+    },
+    {
+      "id": "a9296d99-7b9f-4439-a9d0-31a7bcd69400",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "105",
+      "valor_cents": 300000
+    },
+    {
+      "id": "43c22079-ddd7-41be-a541-ee8e097d7efe",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "106",
+      "valor_cents": 600000
+    },
+    {
+      "id": "e69da4d6-9da4-4095-9c14-badcb4a0e719",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "107",
+      "valor_cents": 200000
+    },
+    {
+      "id": "46ddf480-ce13-486f-a77a-b6cbcb3fdfc9",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "108",
+      "valor_cents": 12000
+    },
+    {
+      "id": "9540f940-f460-4b1c-8ec9-60698d143bb9",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "109",
+      "valor_cents": 18000
+    },
+    {
+      "id": "f27d6007-4390-4055-abb8-2cbdb4c1c589",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "110",
+      "valor_cents": 15000
+    },
+    {
+      "id": "a8886adf-684b-4791-9dea-07f77d14718e",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "111",
+      "valor_cents": 7000
+    },
+    {
+      "id": "fde8c9d3-04c8-462b-b54f-225a898ae37c",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "112",
+      "valor_cents": 8000
+    },
+    {
+      "id": "55771fbe-fe33-49ec-b9d4-1380d8b84592",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "113",
+      "valor_cents": 13000
+    },
+    {
+      "id": "0ae9c156-3221-4493-bd33-71ff88feb7a3",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "114",
+      "valor_cents": 5000
+    },
+    {
+      "id": "2dc1ecfc-53fc-41a5-8138-6e54e98cbec1",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "115",
+      "valor_cents": 7000
+    },
+    {
+      "id": "ac1e20c1-fc1a-411b-9e6b-710b9d1d0c48",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "116",
+      "valor_cents": 40000
+    },
+    {
+      "id": "6d61742a-961c-4803-b02e-876ce722ca96",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "117",
+      "valor_cents": 70000
+    },
+    {
+      "id": "c8c44b88-fec1-42b3-8efb-42a9ca308e92",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "118",
+      "valor_cents": 9000
+    },
+    {
+      "id": "83b295c2-e0ed-4d5f-9678-56551303cea1",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "119",
+      "valor_cents": 25000
+    },
+    {
+      "id": "8777dec0-f45a-40ea-ac77-87b385e81440",
+      "data_efetiva": "2000-01-01T02:00:00.000Z",
+      "id_produto": "120",
+      "valor_cents": 150000
+    }
+  ],
+  "employees": [
+    {
+      "CPF": "123.456.789-00",
+      "nome": "Joao Silva",
+      "salario_cents": 300000,
+      "id_cargo": 1,
+      "descricao_funcao": "Responsável pela gestao geral da loja, incluindo operacões diárias, estoque, equipe de funcionários, atendimento ao cliente e cumprimento de metas de vendas."
+    },
+    {
+      "CPF": "987.654.321-00",
+      "nome": "Maria Oliveira",
+      "salario_cents": 250000,
+      "id_cargo": 2,
+      "descricao_funcao": "Supervisiona o departamento de alimentos, garantindo o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+    },
+    {
+      "CPF": "111.222.333-44",
+      "nome": "José Santos",
+      "salario_cents": 220000,
+      "id_cargo": 2,
+      "descricao_funcao": "Supervisiona o departamento de limpeza, garantindo o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+    },
+    {
+      "CPF": "555.666.777-88",
+      "nome": "Ana Costa",
+      "salario_cents": 180000,
+      "id_cargo": 3,
+      "descricao_funcao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente e garantia de conformidade com os procedimentos de pagamento."
+    },
+    {
+      "CPF": "999.888.777-66",
+      "nome": "Pedro Lima",
+      "salario_cents": 200000,
+      "id_cargo": 3,
+      "descricao_funcao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente e garantia de conformidade com os procedimentos de pagamento."
+    },
+    {
+      "CPF": "123.789.456-11",
+      "nome": "Carla Sousa",
+      "salario_cents": 180000,
+      "id_cargo": 4,
+      "descricao_funcao": "Atende aos clientes no balcao de padaria, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+    },
+    {
+      "CPF": "789.456.123-22",
+      "nome": "Lucas Pereira",
+      "salario_cents": 190000,
+      "id_cargo": 4,
+      "descricao_funcao": "Atende aos clientes no balcao de acougue, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+    },
+    {
+      "CPF": "147.258.369-33",
+      "nome": "Fernanda Santos",
+      "salario_cents": 170000,
+      "id_cargo": 5,
+      "descricao_funcao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+    },
+    {
+      "CPF": "369.258.147-44",
+      "nome": "Marcos Oliveira",
+      "salario_cents": 160000,
+      "id_cargo": 5,
+      "descricao_funcao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+    },
+    {
+      "CPF": "741.852.963-55",
+      "nome": "Rafaela Ferreira",
+      "salario_cents": 180000,
+      "id_cargo": 6,
+      "descricao_funcao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+    },
+    {
+      "CPF": "852.963.741-66",
+      "nome": "Gustavo Martins",
+      "salario_cents": 170000,
+      "id_cargo": 6,
+      "descricao_funcao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+    },
+    {
+      "CPF": "963.741.852-77",
+      "nome": "Caroline Silva",
+      "salario_cents": 160000,
+      "id_cargo": 7,
+      "descricao_funcao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+    },
+    {
+      "CPF": "852.741.963-88",
+      "nome": "Daniel Oliveira",
+      "salario_cents": 150000,
+      "id_cargo": 7,
+      "descricao_funcao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+    },
+    {
+      "CPF": "741.963.852-99",
+      "nome": "Patrícia Lima",
+      "salario_cents": 160000,
+      "id_cargo": 8,
+      "descricao_funcao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+    },
+    {
+      "CPF": "963.852.741-10",
+      "nome": "Antônio Santos",
+      "salario_cents": 150000,
+      "id_cargo": 8,
+      "descricao_funcao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+    },
+    {
+      "CPF": "321.654.987-11",
+      "nome": "Beatriz Souza",
+      "salario_cents": 180000,
+      "id_cargo": 9,
+      "descricao_funcao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+    },
+    {
+      "CPF": "654.987.321-22",
+      "nome": "Roberto Castro",
+      "salario_cents": 170000,
+      "id_cargo": 9,
+      "descricao_funcao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+    },
+    {
+      "CPF": "987.321.654-33",
+      "nome": "Marcela Oliveira",
+      "salario_cents": 160000,
+      "id_cargo": 10,
+      "descricao_funcao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+    },
+    {
+      "CPF": "321.987.654-44",
+      "nome": "Luciana Costa",
+      "salario_cents": 150000,
+      "id_cargo": 10,
+      "descricao_funcao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "nome": "Gerente de Loja",
+      "descricao": "Responsável pela gestao geral da loja, incluindo operacões diárias, estoque, equipe de funcionários, atendimento ao cliente e cumprimento de metas de vendas."
+    },
+    {
+      "id": 2,
+      "nome": "Supervisor de Departamento",
+      "descricao": "Supervisiona um departamento específico dentro da loja, como mercearia, laticínios, congelados, produtos frescos, etc. Responsável por garantir o bom funcionamento do departamento, incluindo estoque, reposicao, limpeza e atendimento ao cliente."
+    },
+    {
+      "id": 3,
+      "nome": "Encarregado de Caixa",
+      "descricao": "Responsável pela operacao dos caixas, incluindo abertura e fechamento de caixa, gestao de trocos, atendimento ao cliente, resolucao de problemas e garantia de conformidade com os procedimentos de pagamento."
+    },
+    {
+      "id": 4,
+      "nome": "Atendente de Balcao",
+      "descricao": "Atende aos clientes nos balcões de atendimento, como padaria, acougue, peixaria, e outros, fornecendo informacões sobre produtos, realizando pedidos personalizados e garantindo a satisfacao do cliente."
+    },
+    {
+      "id": 5,
+      "nome": "Repositor de Mercadorias",
+      "descricao": "Responsável por repor os produtos nas prateleiras, garantindo que haja sempre produtos disponíveis para os clientes, além de realizar a organizacao e limpeza do ambiente de vendas."
+    },
+    {
+      "id": 6,
+      "nome": "Auxiliar de Limpeza",
+      "descricao": "Responsável pela limpeza e organizacao geral da loja, incluindo pisos, corredores, banheiros, áreas de estoque e outras áreas comuns."
+    },
+    {
+      "id": 7,
+      "nome": "Fiscal de Caixa",
+      "descricao": "Responsável por monitorar as transacões nos caixas, garantindo a precisao das operacões, prevenindo fraudes e auxiliando os clientes com dúvidas relacionadas a pagamentos."
+    },
+    {
+      "id": 8,
+      "nome": "Ajudante de Estoque",
+      "descricao": "Auxilia na recepcao, conferência, armazenamento e organizacao de mercadorias no estoque, garantindo a integridade dos produtos e facilitando a reposicao nas prateleiras."
+    },
+    {
+      "id": 9,
+      "nome": "Assistente de Atendimento ao Cliente",
+      "descricao": "Atende aos clientes, auxiliando com dúvidas, reclamacões, sugestões e outras questões relacionadas ao atendimento, garantindo uma experiência positiva de compra."
+    },
+    {
+      "id": 10,
+      "nome": "Auxiliar Administrativo",
+      "descricao": "Responsável por tarefas administrativas diversas, como controle de documentos, registros de entrada e saída de mercadorias, agendamento de entregas, entre outras atividades de apoio administrativo."
+    }
+  ],
+  "suppliers": [
+    {
+      "cnpj": "12.345.678/0001-00",
+      "nome": "Fornecedor ABC Ltda"
+    },
+    {
+      "cnpj": "98.765.432/0001-11",
+      "nome": "Distribuidora XYZ S.A."
+    },
+    {
+      "cnpj": "11.222.333/0001-44",
+      "nome": "Companhia de Alimentos QRS"
+    },
+    {
+      "cnpj": "55.666.777/0001-88",
+      "nome": "Indústria de Bebidas LMN Ltda"
+    },
+    {
+      "cnpj": "99.888.777/0001-66",
+      "nome": "Fornecedor de Produtos Naturais DEF"
+    },
+    {
+      "cnpj": "12.789.456/0001-11",
+      "nome": "Distribuidora de Produtos Eletrônicos GHI S.A."
+    }
+  ],
+  "lotes": [
+    {
+      "id": "b47677ad-d554-4491-ad87-8a689b302534",
+      "id_produto": "001",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1657500,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "2eda8537-2b0e-4598-8a6e-6266a30ab1d4",
+      "id_produto": "002",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3510000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "0247dad6-8b9b-4402-8754-11e7eec594c7",
+      "id_produto": "003",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2158000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "cc9af6ba-633e-4a67-b5a7-9a56a7846dbf",
+      "id_produto": "004",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2860000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "973ec8ee-e87e-4af4-a1fa-76e1d4f07256",
+      "id_produto": "005",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2080000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "0fe078e9-5c0a-4d5e-8bf0-ed69d53dd926",
+      "id_produto": "006",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1579500.0000000002,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "07229d9f-2a17-4bde-8839-ed7cb7f9e203",
+      "id_produto": "007",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4160000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "a96bbea3-818a-42ef-bc73-ea9a160b7f89",
+      "id_produto": "008",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1131000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "b2582698-b3e8-44e4-a3fd-b18032557691",
+      "id_produto": "009",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4095000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "65cd42e2-cdee-47da-8390-45f5dea4bd74",
+      "id_produto": "010",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 5590000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "33a61c71-b9dc-41da-aa30-badf7268c37a",
+      "id_produto": "011",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4855500,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "91147cbc-449e-47e9-b0e9-08b29d29a4cf",
+      "id_produto": "012",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3471000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "9abdb4ad-291d-4b67-bc71-a33590e53b45",
+      "id_produto": "013",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4004000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "34c4ae59-7eb7-4780-aa5e-9de47d1a4a15",
+      "id_produto": "014",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2080000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "3415e283-f97f-4448-ae55-213adb0148b0",
+      "id_produto": "015",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1066000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "331f7d87-f560-4e66-a15a-fa7e4c749e42",
+      "id_produto": "016",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6292000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "62c908ab-5e97-4c69-a0c8-351e68e0d851",
+      "id_produto": "017",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3276000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "2ce6a57c-369f-4e50-956f-fc2496b2a358",
+      "id_produto": "018",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2600000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "e1bcafad-4d66-4630-bba8-023afa7bd855",
+      "id_produto": "019",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4738500,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "a3df2425-0671-462c-b1a4-71ef44ef7079",
+      "id_produto": "020",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1579500.0000000002,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "82285c2a-9b16-4527-b7a5-655c98100ac8",
+      "id_produto": "021",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2210000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "e3775d13-6674-4e50-9d36-2c303c5decdb",
+      "id_produto": "022",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3315000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "15db0b49-4a8e-4a3b-ad01-ee7167a0c4ce",
+      "id_produto": "023",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4264000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "ae84410d-a607-40f8-8dd8-b6d4b430584d",
+      "id_produto": "024",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 8840000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "ce81a7bc-60d2-4c47-9693-0854fb5defa9",
+      "id_produto": "025",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6786000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "ed7bc7bc-cc63-40df-bbcd-f31da99a5214",
+      "id_produto": "026",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2925000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "2af4c053-9bb1-4d66-8b37-f64da35794e2",
+      "id_produto": "027",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3354000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "04cc8171-8aa3-402d-a679-45ccb53b2452",
+      "id_produto": "028",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3958500,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "825e3da6-fbc3-48e8-a5ca-102f56f3cc7d",
+      "id_produto": "029",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 5200000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "5748643c-b70a-4e0c-b11f-5f970180b568",
+      "id_produto": "030",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 8190000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "52765239-814e-482b-bc6d-c5064b74bf15",
+      "id_produto": "031",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2106000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "00c0a814-d7b4-47f2-91c8-5f6c12016287",
+      "id_produto": "032",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4160000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "e5f26289-cab2-4d82-b04b-5afb3523f1bc",
+      "id_produto": "033",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6396000.000000001,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "2645e4ab-e1ac-4af4-a639-3e0da46308f0",
+      "id_produto": "034",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2314000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "77c26463-d29d-4a23-950b-c3384fbae086",
+      "id_produto": "035",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2059200,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "44e1a11e-d1fa-422a-a3c5-8a191b724a93",
+      "id_produto": "036",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3354000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "a5e095ef-807e-46af-9918-eaeb52048001",
+      "id_produto": "037",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2488200,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "bfce0171-8bf6-4f8e-bf16-5f37d02a1ebd",
+      "id_produto": "038",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1599000.0000000002,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "ced349ae-33ef-4602-a8dd-e9ba96ef07ff",
+      "id_produto": "039",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2600000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "12201f61-a84d-49eb-8c2a-c0259b5608f6",
+      "id_produto": "040",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3958500,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "c86ce7c0-a29a-4d78-98e6-4ae616ddbecc",
+      "id_produto": "041",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1310400,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "e0e32223-11cd-4fb4-a10b-3117d6f1fa81",
+      "id_produto": "042",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3166800,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "10107872-2ba9-4ca3-91db-d74836310b4e",
+      "id_produto": "043",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4472000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "570181e6-4ff4-4ed1-9d9f-d22c300f6806",
+      "id_produto": "044",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3239600,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "70437fd5-43bf-41b7-8930-337cbe9886f0",
+      "id_produto": "045",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2236000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "708cc2ca-358c-4610-9a6e-2fbe337807b2",
+      "id_produto": "046",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 5148000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "b3c1eff9-d696-4581-90d6-d3eca6fcf6b8",
+      "id_produto": "047",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3159000.0000000005,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "b3b2f0bd-9182-43e5-bdcf-0904df44fe58",
+      "id_produto": "048",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4628000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "a9341692-6b39-425d-96bb-734d20cb9200",
+      "id_produto": "049",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1696500,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "6470dff6-3d3d-4cdb-a0a1-16b318aaeb69",
+      "id_produto": "050",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2574000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "aed9c89b-8cf6-4475-a989-29bef894ac1d",
+      "id_produto": "051",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3130400,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "6abaacbf-f8c9-4365-9c58-0f1fe3f0bdc5",
+      "id_produto": "052",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1918800.0000000002,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "c83f9cfd-1ff9-476e-ae65-041c006da23f",
+      "id_produto": "053",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2288000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "6411049d-fd8f-4b70-89c9-f0c4c9d29cfd",
+      "id_produto": "054",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 7826000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "c83b9c1b-33e3-4a8c-86dd-2c629fd96da8",
+      "id_produto": "055",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2827500,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "b72013d6-6d73-439e-8881-0172b0d2682c",
+      "id_produto": "056",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3237000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "8cf65599-8058-4d16-b597-893212a888f6",
+      "id_produto": "057",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3536000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "1f059fd2-6c7e-4502-8052-b6925b70709a",
+      "id_produto": "058",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2288000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "6f7a6240-3b17-4238-9e9f-924d9b2c335a",
+      "id_produto": "059",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6435000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "2bc046e2-616c-4e87-8a5a-57af30abe306",
+      "id_produto": "060",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6844500,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "4a373eea-c9ec-4a07-bb65-097cfd763646",
+      "id_produto": "061",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6708000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "5be54f30-ab16-430e-9b3b-390876878c9b",
+      "id_produto": "062",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1942200,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "0f875a55-176a-4407-a1c2-ed6ea621f998",
+      "id_produto": "063",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3510000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "65534d19-a976-48e3-b66f-557b66a35c5b",
+      "id_produto": "064",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4738500,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "5b051706-a9e3-47ce-b110-9c9b2de67adb",
+      "id_produto": "065",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1895400.0000000002,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "b205e9d4-ca11-432e-a4f4-40569c8787af",
+      "id_produto": "066",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2080000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "072123e2-ed57-4143-989e-db73d3bdd756",
+      "id_produto": "067",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1599000.0000000002,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "d63382f0-df75-47ca-a758-825131b62a7a",
+      "id_produto": "068",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2762500,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "85663802-1c17-4579-9f00-ee5546635975",
+      "id_produto": "069",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 9152000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "b7f00d4b-11f2-40db-8853-54346d7bf209",
+      "id_produto": "070",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4628000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "427a02ec-f37a-4e62-963e-461e581d8472",
+      "id_produto": "071",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3120000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "6681dd52-8426-4dd5-a597-95bb168533fb",
+      "id_produto": "072",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1872000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "fac3b480-82dd-4548-b97c-7bd91e24f729",
+      "id_produto": "073",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3510000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "74e65ba9-e88d-4342-8a27-72ea8230aaac",
+      "id_produto": "074",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1735500,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "856a32b0-2a5c-4f24-b304-a48c36379c47",
+      "id_produto": "075",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3239600,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "37721223-ef11-4374-ae0e-3ad4b46fe796",
+      "id_produto": "076",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2236000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "b5e23cc0-2cdd-4909-aad1-44f5ce1cf56f",
+      "id_produto": "077",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1579500.0000000002,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "6231c199-c519-447c-83a5-3bb11c73a4e7",
+      "id_produto": "078",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1989000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "5ba57b03-b60c-49a8-b52c-c109400280d7",
+      "id_produto": "079",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2762500,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "c5a7f461-c73b-459b-8017-edb719e227c2",
+      "id_produto": "080",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3276000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "40d244cb-0d7d-4985-9c04-9f265709f004",
+      "id_produto": "081",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2184000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "a6e1d828-c0a9-457d-affa-70b25beda674",
+      "id_produto": "082",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4049500,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "a4f2232d-8069-4aa7-b44c-74aab31a3785",
+      "id_produto": "083",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1079000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "9b44f33a-59a9-49e9-8c73-a95ea57ecb6d",
+      "id_produto": "084",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2984800.0000000005,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "ef7b5327-581c-47f1-bdad-6f6ef94afc46",
+      "id_produto": "085",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1638000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "59d4f3c1-c336-410d-acdc-5bdeeb989848",
+      "id_produto": "086",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2035800,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "9de0f571-0990-4089-aa03-c96612d0ae9a",
+      "id_produto": "087",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2730000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "bee26cc3-3a90-451c-993e-1d76640f6de3",
+      "id_produto": "088",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 5200000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "783d95e3-03df-4d63-8ea0-1b3b038c3f3f",
+      "id_produto": "089",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3315000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "c1cef59e-8184-4a35-9dec-ec7bb5f6f699",
+      "id_produto": "090",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2106000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "d5ee016c-05ec-4ab7-8389-75d5c28e823b",
+      "id_produto": "091",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2925000,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "7fbcf030-6605-429a-9846-042ca8b41b8b",
+      "id_produto": "092",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2132000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "9762a086-097a-421a-8895-19490b6e39b8",
+      "id_produto": "093",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3203200,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "33024feb-5aba-481c-919b-e0975ac7dab6",
+      "id_produto": "094",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4628000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "156ffe8b-c19f-482d-b7d1-dfa0f2b59376",
+      "id_produto": "095",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1918800.0000000002,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "ba305b21-acc0-4da9-82a1-0c1ce3572d3c",
+      "id_produto": "096",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2080000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "b9e46c67-14c1-4998-a3de-72a5776e3672",
+      "id_produto": "097",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3120000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "a4384435-56a6-4dee-8392-65cdbd311c39",
+      "id_produto": "098",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1579500.0000000002,
+      "CNPJ_fornecedor": "98.765.432/0001-11"
+    },
+    {
+      "id": "6d4e619a-3823-4d1e-9c32-07e04d12bbd0",
+      "id_produto": "099",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3276000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "38e0ac8d-6573-4810-8dd9-e642fa9087df",
+      "id_produto": "100",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2488200,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "34f19d06-144a-4cb8-ada0-c80893205079",
+      "id_produto": "101",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2925000000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "d54fd557-4a71-4d5e-9e12-2392bc39fcf5",
+      "id_produto": "102",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 9360000000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "0cc199fa-d1ed-4d14-93e1-dc642ad113a9",
+      "id_produto": "103",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1144000000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "323d523d-e036-43dc-b615-a12766283056",
+      "id_produto": "104",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 4160000000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "fad25527-9fe6-4ace-bb37-2e811cb0ab67",
+      "id_produto": "105",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 3510000000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "554fb738-da02-48ff-b51e-ba43ab5a6e86",
+      "id_produto": "106",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 6474000000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "af5d4119-7a52-4970-b8a8-c2a110eefaa3",
+      "id_produto": "107",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 2158000000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "2ca32f73-4254-4891-899c-788ef2a836c7",
+      "id_produto": "108",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 127920000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "68bd46f6-0507-4367-9eca-2e0b40ef06ef",
+      "id_produto": "109",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 196560000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "c75ce6a1-616f-4057-8619-2a26f3b1cc1b",
+      "id_produto": "110",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 156000000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "40b46b31-c7b3-4906-ac9e-6030f5a1daaf",
+      "id_produto": "111",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 75530000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "5b75c4ab-5fdd-4a44-8e63-503184ca2e1f",
+      "id_produto": "112",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 84240000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "19e7da65-9a42-4664-a980-2b82d74b5c5a",
+      "id_produto": "113",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 140270000,
+      "CNPJ_fornecedor": "11.222.333/0001-44"
+    },
+    {
+      "id": "b0280af2-b929-42cd-8e52-94b49838a46f",
+      "id_produto": "114",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 55900000,
+      "CNPJ_fornecedor": "55.666.777/0001-88"
+    },
+    {
+      "id": "a5dc94b9-579c-41f1-9da2-a881219f1ef0",
+      "id_produto": "115",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 79170000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "a7b427c8-8f0a-48ee-9ede-61b0a73cf53e",
+      "id_produto": "116",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 462800000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "5ecfc95d-1633-4ebb-841a-80371ad795fc",
+      "id_produto": "117",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 809900000,
+      "CNPJ_fornecedor": "12.345.678/0001-00"
+    },
+    {
+      "id": "974c0b86-0192-4a61-ab39-f14c130b1c1b",
+      "id_produto": "118",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 93600000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    },
+    {
+      "id": "74c0e07a-9f25-465c-8e6e-64c46490b0d9",
+      "id_produto": "119",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 282750000,
+      "CNPJ_fornecedor": "99.888.777/0001-66"
+    },
+    {
+      "id": "01c3e6dd-e6fa-412f-9467-397f1a6cf753",
+      "id_produto": "120",
+      "data_pedido": "2000-01-01T02:00:00.000Z",
+      "data_recebido": "2000-01-01T02:00:00.000Z",
+      "quantidade": 13000,
+      "valor_cents": 1638000000,
+      "CNPJ_fornecedor": "12.789.456/0001-11"
+    }
+  ]
+}
